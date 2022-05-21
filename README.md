@@ -4,5 +4,6 @@ My first Hackathon
 
 Team number 10
 
-Javier Alfonso Phoneixbcn
-Leo MAdsen
+Javier Alfonso 
+Leo MAdsen 
+Joan Balaguer
